@@ -1,4 +1,5 @@
 # IMDBProject
+#https://public.tableau.com/views/IMDBProject_17249719688350/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 When I first started the project, I initially had one goal: to see the most popular genres in foreign countries. Since the last complete year in the IMDB file was 2021, I chose to look at 20 years of data. 2001-2021. The data itself came in .TSV format, yet had escape characters saved in the rows. Due to this, I had to convert the files from TSV to CSV and rid it of the escape characters so I could load it into DBeaver for SQL analaysis. 
 
